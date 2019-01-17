@@ -2,6 +2,21 @@
 [Rr]elease/
 [Bb]in/
 [Oo]bj/
+
+#visual studio
 .vs/
+
+#sw4stm32
+.settings/
+
+#user files
 *.user
+
+#compiled shader files
 *.cso
+
+#latex files
+*.pdf
+*.log
+*.aux
+*.gz
