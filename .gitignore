@@ -9,6 +9,10 @@
 #sw4stm32
 .settings/
 
+#PCB project
+History/
+__Previews/
+
 #user files
 *.user
 
